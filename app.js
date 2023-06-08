@@ -208,3 +208,4 @@ joe.scopeArrow();
 //  'this' refers to the "global scope" or window. 
 // 3. Explain why "this" is different when an arrow function is used.
 //   they don't have their own 'this' binding. They receive the parent container 'this'
+//  About to pull this request so hard
